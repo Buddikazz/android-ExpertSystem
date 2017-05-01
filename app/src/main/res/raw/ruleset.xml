@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rules>
+	<Rule id="proc">
+		<Question>Виберіть бажану модель процесора</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Qualcomm Snapdragon" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Exynos" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="frequency">
+		<Question>Яка частота процесора?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="до 2ГГц" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="більше 2ГГц" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="core">
+		<Question>Вкажіть кількість ядер процесора</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="4" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="8" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="ram">
+		<Question>Вкажіть об'єм оперативної пам'яті</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="2 Гб і меньше" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="2 Гб і більше" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+
+	<Rule id="memory">
+		<Question>Вкажіть об'єм пам'яті</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="32 Гб і меньше" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="32 Гб і більше" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+
+	<Rule id="memory_card">
+		<Question>Наявність слоту для карти пам'яті?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Так" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Ні" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="gpu">
+		<Question>Виберіть модель графічного процесора</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Adreno" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Mali-T760" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="sim">
+		<Question>Наявність слоту для додаткової Sim-карти?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Так" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Ні" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="scanner">
+		<Question>Наявність сканера відбитків пальців?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Так" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Ні" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="os">
+		<Question>Вкажіть версію ОС Android</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="5 і меньше" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="5 і більше" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="3g">
+		<Question>Потрібна підтримка 3G зв'язку?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Так" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Ні" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="4g">
+		<Question>Потрібна підтримка 4G зв'язку?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Так" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Ні" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+
+	<Rule id="display">
+		<Question>Виберіть розмір дисплея</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="5 і меньше" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="5 і більше" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="battery_type">
+		<Question>Виберіть тип акумулятора</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Li-ion" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Li-Pol" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="battery">
+		<Question>Виберіть об'єм акумулятора</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="2700 мАч і меньше" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="2700 мАч і більше" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="double_camera">
+		<Question>Навність подвійної цифрової камери?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Так" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="Ні" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="camera">
+		<Question>Виберіть бажану роздільну здатність камери</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="16 Мп і меньше" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="16 Мп і більше" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="usb">
+		<Question>Виберіть бажану версію USB</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="Micro USB 2.0" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="USB Type-C" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+	<Rule id="bluetooth">
+		<Question>Виберіть бажану версію Bluetooth</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="4" />
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="4+" />
+			</Selection>
+		</Answer>
+	</Rule>    
+
+</Rules>

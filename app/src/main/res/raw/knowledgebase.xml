@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KM>
+    <Fact id="Xperia M2 Dual">
+        <Description value="Xperia M2 Dual"/>
+        <Evals>
+            <Eval id="proc">true
+            </Eval>
+            <Eval id="frequency">true
+            </Eval>
+            <Eval id="core">true
+            </Eval>
+            <Eval id="ram">true
+            </Eval>
+            <Eval id="memory">true
+            </Eval>
+            <Eval id="memory_card">true
+            </Eval>
+            <Eval id="gpu">true
+            </Eval>
+            <Eval id="sim">true
+            </Eval>
+            <Eval id="scanner">false
+            </Eval>
+            <Eval id="os">true
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">false
+            </Eval>
+            <Eval id="display">true
+            </Eval>
+            <Eval id="battery_type">true
+            </Eval>
+            <Eval id="battery">true
+            </Eval>
+            <Eval id="double_camera">false
+            </Eval>
+            <Eval id="camera">true
+            </Eval>
+            <Eval id="usb">true
+            </Eval>
+            <Eval id="bluetooth">true
+            </Eval>
+        </Evals>
+    </Fact>
+    <Fact id="One M8">
+        <Description value="One M8"/>
+        <Evals>
+            <Eval id="proc">true
+            </Eval>
+            <Eval id="frequency">true
+            </Eval>
+            <Eval id="core">true
+            </Eval>
+            <Eval id="ram">true
+            </Eval>
+            <Eval id="memory">true
+            </Eval>
+            <Eval id="memory_card">true
+            </Eval>
+            <Eval id="gpu">true
+            </Eval>
+            <Eval id="sim">false
+            </Eval>
+            <Eval id="scanner">false
+            </Eval>
+            <Eval id="os">true
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">false
+            </Eval>
+            <Eval id="display">true
+            </Eval>
+            <Eval id="battery_type">false
+            </Eval>
+            <Eval id="battery">true
+            </Eval>
+            <Eval id="double_camera">false
+            </Eval>
+            <Eval id="camera">true
+            </Eval>
+            <Eval id="usb">true
+            </Eval>
+            <Eval id="bluetooth">true
+            </Eval>
+        </Evals>
+    </Fact>
+    <Fact id="One M8 Dual Sim">
+        <Description value="One M8 Dual Sim"/>
+        <Evals>
+            <Eval id="proc">true
+            </Eval>
+            <Eval id="frequency">true
+            </Eval>
+            <Eval id="core">true
+            </Eval>
+            <Eval id="ram">true
+            </Eval>
+            <Eval id="memory">true
+            </Eval>
+            <Eval id="memory_card">true
+            </Eval>
+            <Eval id="gpu">true
+            </Eval>
+            <Eval id="sim">true
+            </Eval>
+            <Eval id="scanner">false
+            </Eval>
+            <Eval id="os">true
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">false
+            </Eval>
+            <Eval id="display">true
+            </Eval>
+            <Eval id="battery_type">false
+            </Eval>
+            <Eval id="battery">true
+            </Eval>
+            <Eval id="double_camera">false
+            </Eval>
+            <Eval id="camera">true
+            </Eval>
+            <Eval id="usb">true
+            </Eval>
+            <Eval id="bluetooth">true
+            </Eval>
+        </Evals>
+    </Fact>
+    <Fact id="Galaxy S6">
+        <Description value="Galaxy S6"/>
+        <Evals>
+            <Eval id="proc">false
+            </Eval>
+            <Eval id="frequency">false
+            </Eval>
+            <Eval id="core">false
+            </Eval>
+            <Eval id="ram">false
+            </Eval>
+            <Eval id="memory">true
+            </Eval>
+            <Eval id="memory_card">false
+            </Eval>
+            <Eval id="gpu">false
+            </Eval>
+            <Eval id="sim">false
+            </Eval>
+            <Eval id="scanner">false
+            </Eval>
+            <Eval id="os">true
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">false
+            </Eval>
+            <Eval id="display">false
+            </Eval>
+            <Eval id="battery_type">true
+            </Eval>
+            <Eval id="battery">true
+            </Eval>
+            <Eval id="double_camera">false
+            </Eval>
+            <Eval id="camera">true
+            </Eval>
+            <Eval id="usb">true
+            </Eval>
+            <Eval id="bluetooth">false
+            </Eval>
+        </Evals>
+    </Fact>
+    <Fact id="Xperia Z3+">
+        <Description value="Xperia Z3+"/>
+        <Evals>
+            <Eval id="proc">true
+            </Eval>
+            <Eval id="frequency">false
+            </Eval>
+            <Eval id="core">false
+            </Eval>
+            <Eval id="ram">false
+            </Eval>
+            <Eval id="memory">false
+            </Eval>
+            <Eval id="memory_card">true
+            </Eval>
+            <Eval id="gpu">true
+            </Eval>
+            <Eval id="sim">false
+            </Eval>
+            <Eval id="scanner">false
+            </Eval>
+            <Eval id="os">true
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">false
+            </Eval>
+            <Eval id="display">false
+            </Eval>
+            <Eval id="battery_type">true
+            </Eval>
+            <Eval id="battery">false
+            </Eval>
+            <Eval id="double_camera">false
+            </Eval>
+            <Eval id="camera">false
+            </Eval>
+            <Eval id="usb">true
+            </Eval>
+            <Eval id="bluetooth">false
+            </Eval>
+        </Evals>
+    </Fact>
+    <Fact id="Galaxy S7 Duos">
+        <Description value="Galaxy S7 Duos"/>
+        <Evals>
+            <Eval id="proc">false
+            </Eval>
+            <Eval id="frequency">false
+            </Eval>
+            <Eval id="core">false
+            </Eval>
+            <Eval id="ram">false
+            </Eval>
+            <Eval id="memory">false
+            </Eval>
+            <Eval id="memory_card">true
+            </Eval>
+            <Eval id="gpu">false
+            </Eval>
+            <Eval id="sim">true
+            </Eval>
+            <Eval id="scanner">true
+            </Eval>
+            <Eval id="os">false
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">true
+            </Eval>
+            <Eval id="display">false
+            </Eval>
+            <Eval id="battery_type">true
+            </Eval>
+            <Eval id="battery">false
+            </Eval>
+            <Eval id="double_camera">false
+            </Eval>
+            <Eval id="camera">true
+            </Eval>
+            <Eval id="usb">true
+            </Eval>
+            <Eval id="bluetooth">false
+            </Eval>
+        </Evals>
+    </Fact>
+    <Fact id="PRO 5">
+        <Description value="PRO 5"/>
+        <Evals>
+            <Eval id="proc">false
+            </Eval>
+            <Eval id="frequency">false
+            </Eval>
+            <Eval id="core">false
+            </Eval>
+            <Eval id="ram">false
+            </Eval>
+            <Eval id="memory">false
+            </Eval>
+            <Eval id="memory_card">true
+            </Eval>
+            <Eval id="gpu">false
+            </Eval>
+            <Eval id="sim">true
+            </Eval>
+            <Eval id="scanner">true
+            </Eval>
+            <Eval id="os">true
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">false
+            </Eval>
+            <Eval id="display">false
+            </Eval>
+            <Eval id="battery_type">true
+            </Eval>
+            <Eval id="battery">false
+            </Eval>
+            <Eval id="double_camera">false
+            </Eval>
+            <Eval id="camera">false
+            </Eval>
+            <Eval id="usb">true
+            </Eval>
+            <Eval id="bluetooth">true
+            </Eval>
+        </Evals>
+    </Fact>
+    <Fact id="G6">
+        <Description value="G6"/>
+        <Evals>
+            <Eval id="proc">true
+            </Eval>
+            <Eval id="frequency">false
+            </Eval>
+            <Eval id="core">true
+            </Eval>
+            <Eval id="ram">false
+            </Eval>
+            <Eval id="memory">false
+            </Eval>
+            <Eval id="memory_card">true
+            </Eval>
+            <Eval id="gpu">true
+            </Eval>
+            <Eval id="sim">false
+            </Eval>
+            <Eval id="scanner">true
+            </Eval>
+            <Eval id="os">false
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">true
+            </Eval>
+            <Eval id="display">false
+            </Eval>
+            <Eval id="battery_type">true
+            </Eval>
+            <Eval id="battery">false
+            </Eval>
+            <Eval id="double_camera">true
+            </Eval>
+            <Eval id="camera">true
+            </Eval>
+            <Eval id="usb">false
+            </Eval>
+            <Eval id="bluetooth">false
+            </Eval>
+        </Evals>
+    </Fact>
+    <Fact id="G5">
+        <Description value="G5"/>
+        <Evals>
+            <Eval id="proc">true
+            </Eval>
+            <Eval id="frequency">false
+            </Eval>
+            <Eval id="core">true
+            </Eval>
+            <Eval id="ram">false
+            </Eval>
+            <Eval id="memory">true
+            </Eval>
+            <Eval id="memory_card">true
+            </Eval>
+            <Eval id="gpu">true
+            </Eval>
+            <Eval id="sim">false
+            </Eval>
+            <Eval id="scanner">true
+            </Eval>
+            <Eval id="os">false
+            </Eval>
+            <Eval id="3g">true
+            </Eval>
+            <Eval id="4g">true
+            </Eval>
+            <Eval id="display">false
+            </Eval>
+            <Eval id="battery_type">true
+            </Eval>
+            <Eval id="battery">false
+            </Eval>
+            <Eval id="double_camera">false
+            </Eval>
+            <Eval id="camera">true
+            </Eval>
+            <Eval id="usb">false
+            </Eval>
+            <Eval id="bluetooth">false
+            </Eval>
+        </Evals>
+    </Fact>
+</KM>

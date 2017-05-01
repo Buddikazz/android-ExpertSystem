@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidExpertSystem</string>
+    <string name="result">Результат</string>
+    <string name="replay">Почати заново</string>
+</resources>
